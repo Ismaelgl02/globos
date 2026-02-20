@@ -22,7 +22,7 @@ class Globo {
       imageMode(CENTER); 
       
       ellipse(x, y, 80, 100);
-      //image(cara, x, y);
+      ////image(cara, x, y);
       
       // 2. Eliminamos el pop() que estaba huérfano
   }
